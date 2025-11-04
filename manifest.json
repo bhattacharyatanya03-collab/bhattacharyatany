@@ -1,0 +1,17 @@
+{
+  "name": "Photo Calener",
+  "short_name": "PhotoCal",
+  "description": "A modern and stylish mobile app interface concept for photo editing and calendar features, showcasing powerful tools in a clean, user-friendly design with a blue and white theme.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
